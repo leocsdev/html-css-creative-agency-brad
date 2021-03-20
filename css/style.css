@@ -36,8 +36,6 @@ section {
   padding: 10px 30px;
   margin: 20px 0;
 
-  /* for margin to take effect */
-  /* since a tag is an inline element */
   display: inline-block;
   cursor: pointer;
   transition: 0.3s ease-in-out;
